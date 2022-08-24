@@ -19,10 +19,12 @@ hr{
 .tile{
     width: 147px;
     height: 147px;
+    
+    /* Text */
     font-size: 150px;
     display: flex;
-    justify-content: center;
-    align-items: center;
+    justify-content: center; 
+    align-items: center;    
 }
 .horizontal-line{
     border-bottom: 3px solid black;
